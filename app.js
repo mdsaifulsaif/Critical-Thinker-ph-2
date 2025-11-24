@@ -1,4 +1,4 @@
-const currentuser = ["user", "editro"];
+const currentuser = ["user", "editor"];
 
 const featuredAccesssRole = ["admin", "manager"];
 
